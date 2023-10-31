@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376068483758",
+    "project_id": "profilepro-e2811",
+    "storage_bucket": "profilepro-e2811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376068483758:android:088e815bd4ae157813db3f",
+        "android_client_info": {
+          "package_name": "com.company.profilepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6eiHL_NvpLTZMbQmjARfjNmK6wKPUXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376068483758:android:ffa47a0c37bcf7f813db3f",
+        "android_client_info": {
+          "package_name": "com.example.profilepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6eiHL_NvpLTZMbQmjARfjNmK6wKPUXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "574431992249",
+    "firebase_url": "https://portoprofile-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "portoprofile",
+    "storage_bucket": "portoprofile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574431992249:android:b4b4b88f0207974de73e68",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwbDFQhC0JVsOgkb9prwUiqaUKMhncWqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574431992249:android:f47de7c97a54637ee73e68",
+        "android_client_info": {
+          "package_name": "com.example.protoprofile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwbDFQhC0JVsOgkb9prwUiqaUKMhncWqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
